@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pathlib
+pymysql==1.1.0
+python-dotenv==1.0.0
+sqlalchemy-stubs
